@@ -5,6 +5,7 @@
 [Here is a walkthrough video for this project.](https://share.descript.com/view/sYmmL9OgLIN)
 
 
+LTI{Load Photogram GUI assignment}(https://grades.firstdraft.com/launch)[S9ymPy6WCsn18gLbByVbZQ7k]{vfdtzJb5bLYqYwuqgeRKpc5d}(10)[Photogram GUI Project]
 
 ## Notes:
 
