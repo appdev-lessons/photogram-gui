@@ -16,11 +16,11 @@
     _instead of_ 
     `render({ :template => "photo_templates/index.html.erb" })`)
 - I am using Gitpod as my cloud editor, so the interface looks a bit different.
-
-[Here is a walkthrough video for this project.](https://share.descript.com/view/sYmmL9OgLIN)
-
-**The lesson below contains some additional details, but the video should mostly guide you through the project**
 </div>
+
+Did you read the differences above? Good! Then [here is a walkthrough video for this project.](https://share.descript.com/view/sYmmL9OgLIN)
+
+The lesson below contains some additional details, but the video should mostly guide you through the project.
 
 ## Getting started
 
