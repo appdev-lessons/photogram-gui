@@ -14,7 +14,7 @@
     `render({ :template => "photo_templates/index" })` 
     _instead of_ 
     `render({ :template => "photo_templates/index.html.erb" })`)
-- I use `get` routes for everything, _you_ should use `post` routes in `config/routes.rb` and in your `<form action="" method="post">` when modifying the database during `create` and `update` actions
+- I use `get` routes for everything, _you_ should use `post()` routes in `config/routes.rb` and in your view template `<form action="" method="post">` when modifying the database during `create` and `update` actions
 </div>
 
 Did you read the differences above? Good! Then [here is a walkthrough video for this project.](https://share.descript.com/view/sYmmL9OgLIN)
