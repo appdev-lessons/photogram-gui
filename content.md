@@ -5,7 +5,8 @@
 <div class="bg-red-100 py-1 px-5" markdown="1">
 **Please note**, the video is from a previous iteration of the project, so there are some differences:
 
-- The "chapter" and "README" in the video is contained in this lesson
+- The "chapter" and "README" in the video is contained in this and previous lessons:
+    - Rather than the _ActiveRecord_ "chapter" in the video, you can keep the lessons on [Contact Book](https://learn.firstdraft.com/lessons/130-contact-book-first-database) and [forms](https://learn.firstdraft.com/lessons/102-query-strings-and-forms) open for reference.
 - I use a graphical user interface at the URL path `/git` to commit and push, _you_ should use [the VSCode built in workflow in this lesson](https://learn.firstdraft.com/lessons/50-git-commit-and-push)
 - I use `bin/server` to start my live app preview, _you_ should use `bin/dev`
 - I use `rails sample_data`, _you_ should use `rake sample_data`
