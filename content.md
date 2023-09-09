@@ -10,7 +10,6 @@
 - I use a graphical user interface at the URL path `/git` to commit and push, _you_ should use [the VSCode built in workflow in this lesson](https://learn.firstdraft.com/lessons/50-git-commit-and-push)
 - I use `bin/server` to start my live app preview, _you_ should use `bin/dev`
 - I use `rails sample_data`, _you_ should use `rake sample_data`
-- I use `rails grade`, _you_ should use `rake grade`
 - You should drop the `.html.erb` when rendering a view template:
     `render({ :template => "photo_templates/index" })` 
     _instead of_ 
