@@ -5,6 +5,7 @@
 <div class="bg-red-100 py-1 px-5" markdown="1">
 **Please note**, the video is from a previous iteration of the project, so there are some differences:
 
+- I am using Gitpod as my cloud editor, so the interface looks a bit different.
 - The "chapter" and "README" in the video is contained in this and previous lessons:
     - Rather than the _ActiveRecord_ "chapter" in the video, you can keep the lessons on [Contact Book](https://learn.firstdraft.com/lessons/130-contact-book-first-database) and [forms](https://learn.firstdraft.com/lessons/102-query-strings-and-forms) open for reference.
 - I use a graphical user interface at the URL path `/git` to commit and push, _you_ should use [the VSCode built in workflow in this lesson](https://learn.firstdraft.com/lessons/50-git-commit-and-push)
@@ -15,7 +16,7 @@
     `render({ :template => "photo_templates/index" })` 
     _instead of_ 
     `render({ :template => "photo_templates/index.html.erb" })`)
-- I am using Gitpod as my cloud editor, so the interface looks a bit different.
+- I use `get` routes for everything, _you_ should use `post` routes in `config/routes.rb` and in your `<form action="" method="post">` when modifying the database during `create` and `update` actions
 </div>
 
 Did you read the differences above? Good! Then [here is a walkthrough video for this project.](https://share.descript.com/view/sYmmL9OgLIN)
