@@ -2,7 +2,7 @@
 
 ## Walkthrough video
 
-<div class="bg-red-100 py-1 px-5" markdown="1">
+<div class="bg-red-100 py-1 px-5 w-full" markdown="1">
 [Here is a walkthrough video for this project.](https://share.descript.com/view/sYmmL9OgLIN)
 
 Please note, the video is from a previous iteration of the project, so there are some differences:
