@@ -2,17 +2,19 @@
 
 ## Walkthrough video
 
-<div class="bg-red-100 py-1 px-5 w-full" markdown="1">
+<div class="bg-red-100 py-1 px-5" markdown="1">
 [Here is a walkthrough video for this project.](https://share.descript.com/view/sYmmL9OgLIN)
 
 Please note, the video is from a previous iteration of the project, so there are some differences:
 
 - The "chapter" and "README" in the video is contained in this lesson
 - I use `bin/server` to start my live app preview, _you_ should use `bin/dev`
-- I use `rails sample_data` to add test data, _you_ should use `rake sample_data`
-- I use `rails grade` to run the automated tests, _you_ should use `rake grade`
+- I use `rails sample_data`, _you_ should use `rake sample_data`
+- I use `rails grade`, _you_ should use `rake grade`
 - You should drop the `.html.erb` when rendering a view template:
-    - `render({ :template => "photo_templates/index" })` _instead of_ `render({ :template => "photo_templates/index.html.erb" })`)
+    `render({ :template => "photo_templates/index" })` 
+    _instead of_ 
+    `render({ :template => "photo_templates/index.html.erb" })`)
 - I am using Gitpod as my cloud editor, so the interface looks a bit different.
 </div>
 
