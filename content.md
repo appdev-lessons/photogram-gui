@@ -43,7 +43,7 @@ Once you're comfortable with the methods, let's proceed to building the interfac
 
 ## Domain model
 
-For a quick overview of your database, there's an ERD located in the root-level folder of the application, `erd.png`:
+For a quick overview of your database, here is the entity relationship diagram (ERD):
 
 ![Domain Model](assets/erd.png)
 
@@ -76,7 +76,7 @@ The required tasks are:
 
 ## Things to keep in mind
 
-- I added some _validations_, rules to try and help prevent bogus data from entering your tables, to your models. If your record is mysteriously not saving, then a validation is failing (or you just forgot to call `.save`, which I do all the time).
+- I added some _validations_ ([recall from the previous lesson](https://learn.firstdraft.com/lessons/152-data-integrity-with-validations)), rules to try and help prevent bogus data from entering your tables, to your models. If your record is mysteriously not saving, then a validation is failing (or you just forgot to call `.save`, which I do all the time).
 - Don't be alarmed by the number of automated tests. Most of them are there as hints to help you structure your forms correctly.
 - It's okay to View Source on the target to get hints on what HTML we used.
 - When you make forms, don't forget to add a `<label>` for every form control (`<input>`, `<textarea>`, etc). The `<label>` should have a `for=""` attribute that matches the `id=""` attribute of the input. For example,
@@ -87,17 +87,6 @@ The required tasks are:
 ```
 
 
-## Notes:
-
-  - [Video](https://canvas.uchicago.edu/courses/41147/pages/video-photogram-gui){:target="_blank"} transcription copied below is in [here](https://github.com/firstdraft/appdev-chapters/blob/benp-edits/photogram-gui.md){:target="_blank"}
-
-  - Project (graded): [https://github.com/appdev-projects/photogram-gui](https://github.com/appdev-projects/photogram-gui){:target="_blank"}
-
-  - Target: [https://photogram-gui.matchthetarget.com/](https://photogram-gui.matchthetarget.com/){:target="_blank"}
-
-  - Useful chapters:
-
-    - [Time to CRUD][Time to CRUD]
 
 ## Video Segment: CRUD with Forms
 
