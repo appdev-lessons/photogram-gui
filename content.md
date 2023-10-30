@@ -85,3 +85,10 @@ The required tasks are:
 <label for="zebra">Fan</label>
 <input id="zebra" type="text" name="qs_fan_id">
 ```
+
+---
+
+- Approximately how long (in minutes) did this lesson take you to complete?
+{: .free_text_number #time_taken title="Time taken" points="1" answer="any" }
+
+---
